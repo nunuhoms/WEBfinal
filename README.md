@@ -1,6 +1,4 @@
 # WEBfinal
-
-# Gats
 <!DOCTYPE html>
 <html>
 <body>
